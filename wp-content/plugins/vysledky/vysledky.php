@@ -2,7 +2,6 @@
 
 /**
  * The plugin bootstrap file, co to bootstrap musím někde zjistit.
- * Už jsem to zjistil, mám to na wiki Znalosti.
  *
  * This file is read by WordPress to generate the plugin information in the plugin
  * admin area. This file also includes all of the dependencies used by the plugin,
