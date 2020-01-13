@@ -1,0 +1,25 @@
+/*
+Theme Name: Twenty Seventeen Childish
+Theme URI: https://wordpress.org/themes/twentyseventeen/
+Template: twentyseventeen
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device.
+Tags: one-column,two-columns,right-sidebar,flexible-header,accessibility-ready,custom-colors,custom-header,custom-menu,custom-logo,editor-style,featured-images,footer-widgets,post-formats,rtl-language-support,sticky-post,theme-options,threaded-comments,translation-ready
+Version: 2.2.1558258076
+Updated: 2019-05-19 11:27:56
+
+*/
+
+body, button, input, select, textarea {
+    font-family: Open sans;
+}
+.wrap {
+    max-width: 80%;
+}
+h2, .home.blog .entry-title { 
+    color: #666;
+    font-size: 20px;
+    font-size: 1.25rem;
+    font-weight: bold;
+}
